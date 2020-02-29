@@ -1,0 +1,6 @@
+name: "cheat-block"
+displayName: "[blue]Cheat Block"
+author: "GingerWolf"
+description: "Adds a block which produces a tonne of resources for free, useful for getting extra resources in campaign."
+version: "1"
+minGameVersion: "103"
