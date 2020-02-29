@@ -1,0 +1,29 @@
+type: Separator
+name: Cheat Block
+description: A block which creates items from a tiny amount of power, in large supply. (Useful for skipping campaign.)
+size: 1
+hasPower: true
+hasItems: true
+craftTime: 5
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.1
+}
+requirements: [
+  copper/20
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+results: [
+    copper/1
+    lead/1
+    graphite/1
+    metaglass/1
+    titanium/1
+    silicon/1
+    thorium/1
+    plastanium/1
+    phasefabric/1
+    surgealloy/1
+]
