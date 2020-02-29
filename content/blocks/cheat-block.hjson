@@ -7,7 +7,6 @@ hasItems: true
 craftTime: 5
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.1
 }
 requirements: [
   copper/20
